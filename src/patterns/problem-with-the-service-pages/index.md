@@ -20,11 +20,11 @@ This guidance is for government teams that build online services. [To find infor
   name: "There is a problem with the service pages",
   criteria: [
     {
-      text: "users can get contact information in a consistent way",
+      text: "make sure users can get contact information in a consistent way",
       anchor: "wcag-consistent-content-problem-service"
     },
     {
-      text: "users can resume the service using information they've previously entered, if possible",
+      text: "make sure users can resume the service using information they've previously entered, if possible",
       anchor: "wcag-resume-previous-entered-information"
     }
   ]

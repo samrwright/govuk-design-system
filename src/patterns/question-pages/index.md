@@ -20,11 +20,11 @@ This pattern explains when to use question pages and what elements they need to 
   name: "Question pages",
   criteria: [
     {
-      text: "users can avoid re-entering information they've given in a previous answer",
+      text: "make sure users can avoid re-entering information they've given in a previous answer",
       anchor: "wcag-reenter-previous-answer"
     },
     {
-      text: "users can select an answer without relying on 'click and drag' movements",
+      text: "make sure users can select an answer without relying on 'click and drag' movements",
       anchor: "wcag-select-without-click-drag"
     }
   ]

@@ -19,15 +19,15 @@ Help users to create and enter passwords.
   name: "Password input",
   criteria: [
     {
-      text: "'show password' buttons are easy to interact with",
+      text: "make sure 'show password' buttons are easy to interact with",
       anchor: "wcag-interact-show-password"
     },
     {
-      text: "users can use `autocomplete` to securely create and enter passwords",
+      text: "make sure users can use `autocomplete` to securely create and enter passwords",
       anchor: "wcag-autocomplete-attribute"
     },
     {
-      text: "users can enter a password using copy and paste",
+      text: "make sure users can enter a password using copy and paste",
       anchor: "wcag-copy-paste-password"
     }
   ]

@@ -19,11 +19,11 @@ Use a summary list to summarise information, for example, a user’s responses a
   name: "Summary list",
   criteria: [
     {
-      text: "interact with row actions",
+      text: "make sure users can interact with row actions",
       anchor: "wcag-interact-row-actions"
     },
     {
-      text: "users can change information they've previously given in an answer",
+      text: "make sure users can change information they've previously given in an answer",
       anchor: "wcag-change-answers"
     }
   ]

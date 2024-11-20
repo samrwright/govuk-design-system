@@ -17,7 +17,7 @@ layout: layout-pane.njk
   name: "Select",
   criteria: [
     {
-      text: "if you choose to add functionality to select multiple options, users can do so without relying on 'click and drag' movements",
+      text: "if you choose to add functionality to select multiple options, make sure users can do so without relying on 'click and drag' movements",
       anchor: "wcag-avoid-dragging-multiple-options"
     }
   ]

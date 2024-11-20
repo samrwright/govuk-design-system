@@ -18,7 +18,7 @@ Check the information the user gives you to make sure it’s valid. If there's a
   name: "Recover from validation errors",
   criteria: [
     {
-      text: "users can edit information they've previously given to correct an error",
+      text: "make sure users can edit information they've previously given to correct an error",
       anchor: "wcag-edit-to-correct-errors"
     }
   ]

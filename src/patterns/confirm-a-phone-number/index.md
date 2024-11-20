@@ -21,11 +21,11 @@ Check that a user has access to a specific mobile phone number using a security 
   name: "Confirm a phone number",
   criteria: [
     {
-      text: "users can use a link to resend the security code (when the user creates an account)",
+      text: "make sure users can use a link to resend the security code (when the user creates an account)",
       anchor: "wcag-resend-security-code-creation"
     },
     {
-      text: "users can use a link to resend the security code (when the user signs in)",
+      text: "make sure users can use a link to resend the security code (when the user signs in)",
       anchor: "wcag-resend-security-code-sign-in"
     }
   ]

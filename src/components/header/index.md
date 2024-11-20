@@ -19,11 +19,11 @@ The GOV.UK header component tells users they’re using a service on GOV.UK and 
   name: "GOV.UK header",
   criteria: [
     {
-      text: "all page content can be seen when the user interacts with a dropdown menu",
+      text: "make sure all page content can be seen when the user interacts with a dropdown menu",
       anchor: "wcag-do-not-cover-content"
     },
     {
-      text: "help links can be found in a consistent place on each page",
+      text: "make sure help links can be found in a consistent place on each page",
       anchor: "wcag-consistent-help-links"
     }
   ]

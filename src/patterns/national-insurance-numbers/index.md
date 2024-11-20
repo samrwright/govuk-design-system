@@ -20,7 +20,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "National insurance numbers",
   criteria: [
     {
-      text: "users can reuse a previously entered National Insurance number",
+      text: "make sure users can reuse a previously entered National Insurance number",
       anchor: "wcag-reuse-national-insurance-number"
     }
   ]

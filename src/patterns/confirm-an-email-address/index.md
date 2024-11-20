@@ -20,7 +20,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Confirm an email address",
   criteria: [
     {
-      text: "if you're asking the user to enter a security code, they can enter the code using copy and paste",
+      text: "if you're asking the user to enter a security code, make sure they can enter the code using copy and paste",
       anchor: "wcag-copy-paste-security-codes"
     }
   ]

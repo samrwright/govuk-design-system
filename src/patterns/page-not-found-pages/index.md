@@ -20,7 +20,7 @@ A page not found tells someone we cannot find the page they were trying to view.
   name: "Page not found pages",
   criteria: [
     {
-      text: "users can find contact information in a consistent way",
+      text: "make sure users can find contact information in a consistent way",
       anchor: "wcag-consistent-content-page-not-found"
     }
   ]

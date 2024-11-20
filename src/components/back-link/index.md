@@ -19,11 +19,11 @@ Use the back link component to help users go back to the previous page in a mult
   name: "Back link",
   criteria: [
     {
-      text: "users do not need to re-enter information they've previously given when they go back to a page",
+      text: "make sure users do not need to re-enter information they've previously given when they go back to a page",
       anchor: "wcag-avoid-information-reentry"
     },
     {
-      text: "users can interact with the Back link component",
+      text: "make sure users can interact with the Back link component",
       anchor: "wcag-interact-back-links"
     }
   ]

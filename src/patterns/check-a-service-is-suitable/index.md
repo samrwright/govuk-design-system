@@ -19,7 +19,7 @@ Ask users questions to help them work out if they can or should use your service
   name: "Check a service is suitable",
   criteria: [
     {
-      text: "users do not need to repeat answers that they've already given",
+      text: "make sure users do not need to repeat answers that they've already given",
       anchor: "wcag-avoid-repeating-questions"
     }
   ]

@@ -19,7 +19,7 @@ Use the phase banner component to show users your service is still being worked 
   name: "Phase banner",
   criteria: [
     {
-      text: "all page content can be seen when the Phase banner component is shown",
+      text: "make sure all page content can be seen when the Phase banner component is shown",
       anchor: "wcag-do-not-cover-content"
     }
   ]

@@ -19,7 +19,7 @@ Help users to create and enter secure and memorable passwords.
   name: "Passwords",
   criteria: [
     {
-      text: "'reset password' links can be found in a consistent place on each page",
+      text: "make sure that 'reset password' links can be found in a consistent place on each page",
       anchor: "wcag-consistent-reset"
     }
   ]

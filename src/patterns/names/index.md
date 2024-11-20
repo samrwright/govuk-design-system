@@ -18,7 +18,7 @@ layout: layout-pane.njk
   name: "National insurance numbers",
   criteria: [
     {
-      text: "users can reuse a previously entered name",
+      text: "make sure users can reuse a previously entered name",
       anchor: "wcag-reuse-name"
     }
   ]

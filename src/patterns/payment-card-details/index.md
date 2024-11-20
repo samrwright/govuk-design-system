@@ -19,7 +19,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Payment card details",
   criteria: [
     {
-      text: "there's adequate spacing between month and year fields, so users can easily interact with them",
+      text: "make sure there's adequate spacing between month and year fields, so users can easily interact with them",
       anchor: "wcag-spacing-month-year"
     }
   ]

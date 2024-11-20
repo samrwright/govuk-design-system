@@ -20,7 +20,7 @@ Public sector organisations have a duty to consider the need to avoid discrimina
   name: "Equality information",
   criteria: [
     {
-      text: "users can update their equality information without re-entering existing information",
+      text: "make sure users can update their equality information without re-entering existing information",
       anchor: "wcag-do-not-ask-reentry-equality-info"
     }
   ]

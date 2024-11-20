@@ -19,7 +19,7 @@ The GOV.UK footer provides copyright, licensing and other information about your
   name: "GOV.UK footer",
   criteria: [
     {
-      text: "help links can be found in a consistent place on each page",
+      text: "make sure help links can be found in a consistent place on each page",
       anchor: "wcag-consistent-links"
     }
   ]

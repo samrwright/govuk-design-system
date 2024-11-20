@@ -17,7 +17,7 @@ layout: layout-pane.njk
   name: "Button",
   criteria: [
     {
-      text: "users can interact with the Button component",
+      text: "make sure users can interact with the Button component",
       anchor: "wcag-interact-button"
     }
   ]

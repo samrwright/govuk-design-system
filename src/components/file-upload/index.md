@@ -19,11 +19,11 @@ This guidance is for government teams that build online services. [To find infor
   name: "File upload",
   criteria: [
     {
-      text: "users can upload a file without relying on 'drag and drop' movements",
+      text: "make sure users can upload a file without relying on 'drag and drop' movements",
       anchor: "wcag-multi-method-drag-drop"
     },
     {
-      text: "uploaded files can be reused",
+      text: "make sure uploaded files can be reused",
       anchor: "wcag-use-previous-uploads"
     }
   ]

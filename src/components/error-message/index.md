@@ -19,7 +19,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Error message",
   criteria: [
     {
-      text: "users can edit information they've previously given, so that they can correct an error",
+      text: "make sure users can edit information they've previously given, so that they can correct an error",
       anchor: "wcag-clear-answers-error"
     }
   ]

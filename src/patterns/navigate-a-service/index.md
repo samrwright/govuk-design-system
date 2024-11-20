@@ -20,11 +20,11 @@ Help users know they’re using your service and navigate around it.
   name: "Navigate a service",
   criteria: [
     {
-      text: "all page content can be seen when the user interacts with a dropdown menu",
+      text: "make sure all page content can be seen when the user interacts with a dropdown menu",
       anchor: "wcag-do-not-cover-content"
     },
     {
-      text: "users can find help links in a consistent place on each page",
+      text: "make sure users can find help links in a consistent place on each page",
       anchor: "wcag-consistent-help-links"
     }
   ]

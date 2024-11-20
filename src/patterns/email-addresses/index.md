@@ -20,7 +20,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Email addresses",
   criteria: [
     {
-      text: "users can reuse a previously entered email address",
+      text: "make sure users can reuse a previously entered email address",
       anchor: "wcag-reuse-email-addresses"
     }
   ]

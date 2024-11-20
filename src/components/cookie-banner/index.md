@@ -19,11 +19,11 @@ Allow users to accept or reject cookies which are not essential to making your s
   name: "Cookie banner",
   criteria: [
     {
-      text: "items in focus can be seen all times",
+      text: "make sure that items in focus can be seen all times",
       anchor: "wcag-see-focus"
     },
     {
-      text: "users can interact with buttons and links in the Cookie banner component",
+      text: "make sure users can interact with buttons and links in the Cookie banner component",
       anchor: "wcag-interact-cookie-banner"
     }
   ]

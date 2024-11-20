@@ -20,7 +20,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Bank details",
   criteria: [
     {
-      text: "users can reuse previously entered bank details",
+      text: "make sure users can reuse previously entered bank details",
       anchor: "wcag-reuse-bank-details"
     }
   ]

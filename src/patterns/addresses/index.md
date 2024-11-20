@@ -20,7 +20,7 @@ This guidance is for government teams that build online services. [To find infor
   name: "Addresses",
   criteria: [
     {
-      text: "users can reuse a previously entered address",
+      text: "make sure users can reuse a previously entered address",
       anchor: "wcag-reuse-addresses"
     }
   ]

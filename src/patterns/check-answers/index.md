@@ -20,7 +20,7 @@ Let users check their answers before submitting information to a service.
   name: "Check answers",
   criteria: [
     {
-      text: "users can go back and edit information they've already entered",
+      text: "make sure users can go back and edit information they've already entered",
       anchor: "wcag-prepopulate-information"
     }
   ]

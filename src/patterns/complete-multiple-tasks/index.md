@@ -24,11 +24,11 @@ Help users understand:
   name: "Complete multiple tasks",
   criteria: [
     {
-      text: "if you choose to add functionality to reorder tasks, users can do so without relying on 'click and drag' movements",
+      text: "if you choose to add functionality to reorder tasks, make sure users can do so without relying on 'click and drag' movements",
       anchor: "wcag-interact-without-click-drag-task"
     },
     {
-      text: "users can edit information they've given when going back to a previous task",
+      text: "make sure users can edit information they've given when going back to a previous task",
       anchor: "wcag-edit-information-previous-task"
     }
   ]

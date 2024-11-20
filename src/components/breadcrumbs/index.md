@@ -19,7 +19,7 @@ The breadcrumbs component helps users to understand where they are within a webs
   name: "Breadcrumbs",
   criteria: [
     {
-      text: "users can interact with the Breadcrumbs component",
+      text: "make sure users can interact with the Breadcrumbs component",
       anchor: "wcag-interact-breadcrumbs"
     }
   ]

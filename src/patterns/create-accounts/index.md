@@ -19,11 +19,11 @@ Help users create an account for your service.
   name: "Create accounts",
   criteria: [
     {
-      text: "users can reuse information they've already entered",
+      text: "make sure users can reuse information they've already entered",
       anchor: "wcag-reuse-account-information"
     },
     {
-      text: "cognitives tests, such as CAPTCHA, are not needed for users to create an account",
+      text: "make sure that cognitives tests, such as CAPTCHA, are not needed for users to create an account",
       anchor: "wcag-avoid-cognitive-test"
     }
   ]

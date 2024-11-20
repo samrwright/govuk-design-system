@@ -20,7 +20,7 @@ Give users contact information within your service.
   name: "Contact a department or service team",
   criteria: [
     {
-      text: "users can find contact details in a consistent place across a set of pages",
+      text: "make sure users can find contact details in a consistent place across a set of pages",
       anchor: "wcag-consistent-contact"
     }
   ]

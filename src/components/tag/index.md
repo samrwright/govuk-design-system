@@ -19,7 +19,7 @@ Use the tag component to show users the status of something.
   name: "Tag",
   criteria: [
     {
-      text: "if you choose to add functionality to reorder tags, users can do so without relying on 'click and drag' movements ()",
+      text: "if you choose to add functionality to reorder tags, make sure users can do so without relying on 'click and drag' movements ()",
       anchor: "wcag-tag-no-dragging-reorder"
     }
   ]
