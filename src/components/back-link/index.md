@@ -57,7 +57,7 @@ Make sure the link takes users to the previous page they were on, in the state t
 
 {% call wcagNote({id: "wcag-interact-back-links"}) %}
 
-<p>Make sure no other interactive elements are too close to the Back link component. This is to make sure users can easily interact with the Back link component. This relates to <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">WCAG 2.2 success criterion 2.5.8 Target size (minimum)</a>.</p>
+<p>Make sure no other interactive elements are too close to the Back link component. This is to make sure users can easily interact with it. This relates to <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">WCAG 2.2 success criterion 2.5.8 Target size (minimum)</a>.</p>
 {% endcall %}
 
 Where possible, ensure the back link works even when JavaScript is not available. If this is not possible, you should hide the back link when JavaScript is not available.

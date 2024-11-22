@@ -45,7 +45,7 @@ The breadcrumbs should start with your 'home' page and end with the parent secti
 
 {% call wcagNote({id: "wcag-interact-breadcrumbs"}) %}
 
-<p>Make sure no other interactive elements are too close to the Breadcrumbs component. This is to make sure users can easily interact with the Breadcrumbs component. This relates to <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">WCAG 2.2 success criterion 2.5.8 Target size (minimum)</a>.</p>
+<p>Make sure no other interactive elements are too close to the Breadcrumbs component. This is to make sure users can easily interact with it. This relates to <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">WCAG 2.2 success criterion 2.5.8 Target size (minimum)</a>.</p>
 {% endcall %}
 
 There are 2 ways to use the breadcrumbs component. You can use HTML or, if you are using [Nunjucks](https://mozilla.github.io/nunjucks/) or the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk), you can use the Nunjucks macro.

@@ -23,7 +23,7 @@ Help users create an account for your service.
       anchor: "wcag-reuse-account-information"
     },
     {
-      text: "make sure that cognitives tests, such as CAPTCHA, are not needed for users to create an account",
+      text: "make sure that cognitives tests, such as CAPTCHAs, are not needed for users to create an account",
       anchor: "wcag-avoid-cognitive-test"
     }
   ]
